@@ -106,3 +106,7 @@ body {
   background-image: -o-background
     linear-gradient(to bottom, #82addb 0%, #ebb2b1 100%);
 }
+
+.link {
+  display: block;
+}
